@@ -1,0 +1,18 @@
+2020-03-05 11:41:43,731 CRIT Supervisor running as root (no user in config file)
+2020-03-05 11:43:50,179 CRIT Supervisor running as root (no user in config file)
+2020-03-05 11:43:50,204 INFO RPC interface 'supervisor' initialized
+2020-03-05 11:43:50,204 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-03-05 11:43:50,204 INFO RPC interface 'supervisor' initialized
+2020-03-05 11:43:50,204 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-03-05 11:43:50,205 INFO daemonizing the supervisord process
+2020-03-05 11:43:50,205 INFO supervisord started with pid 2394
+2020-03-05 11:43:51,208 INFO spawned: 'main_server' with pid 2395
+2020-03-05 11:43:51,209 INFO spawned: 'redis' with pid 2396
+2020-03-05 11:43:52,412 INFO success: main_server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-03-05 11:43:52,412 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-03-05 13:04:31,114 INFO stopped: redis (exit status 0)
+2020-03-05 13:04:31,275 INFO stopped: main_server (exit status 0)
+2020-03-05 13:04:32,280 INFO spawned: 'main_server' with pid 2685
+2020-03-05 13:04:32,282 INFO spawned: 'redis' with pid 2686
+2020-03-05 13:04:33,483 INFO success: main_server entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2020-03-05 13:04:33,483 INFO success: redis entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
