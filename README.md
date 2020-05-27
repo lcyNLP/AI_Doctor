@@ -243,11 +243,11 @@
 
 * 训练和验证损失对照曲线:
 
-![](plt/loss.png)
+![](plt/loss1.png)
 
 * 训练和验证准确率对照曲线:
 
-![](plt/acc.png)
+![](plt/acc1.png)
 
 
 
